@@ -25,6 +25,7 @@ linkedin_username:  gswierczynski
 
 header_pages:
 - about.md
+- contact.md
 
 # Build settings
 markdown: kramdown

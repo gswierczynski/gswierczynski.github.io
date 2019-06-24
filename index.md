@@ -5,9 +5,11 @@
 layout: home
 title: Hi there!
 ---
-Grzegorz -> Greg for short
+Grzegorz - Greg for short
 
-You can find contact information at the bottom  
+Moving projects from Idea to Release
+
+For business inquires jump to contact section
 
 <br />
 
