@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Hi there!
+title: Software Engineer, Android Developer
 ---
 Grzegorz - Greg for short
 
