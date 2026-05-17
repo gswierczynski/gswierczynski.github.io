@@ -5,8 +5,8 @@ title: Software Engineer
 Grzegorz – Greg for short
 
 Founder of:
-- [motolog.app](https://motolog.app){:target="_blank"}↗
-- [asoeye.com](https://asoeye.com){:target="_blank"}↗
+- [motolog.app](https://motolog.app){:target="_blank"} ↗
+- [asoeye.com](https://asoeye.com){:target="_blank"} ↗
 
 For business inquires jump to contact section.
 
