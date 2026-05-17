@@ -2,16 +2,13 @@
 layout: home
 title: Software Engineer
 ---
-Grzegorz - Greg for short
+Grzegorz – Greg for short
 
-Moving projects from Idea to Release
+Founder of:
+- [motolog.app](https://motolog.app){:target="_blank"}↗
+- [asoeye.com](https://asoeye.com){:target="_blank"}↗
 
-Founder of [motolog.app](https://motolog.app){:target="_blank"}  
-<!--
-Available on [App Store](https://apps.apple.com/app/id6738118436){:target="_blank"} and [Google Play](https://play.google.com/store/apps/details?id=pl.gswierczynski.motolog){:target="_blank"}
--->
-
-For business inquires jump to contact section
+For business inquires jump to contact section.
 
 <br />
 <br />
@@ -21,5 +18,9 @@ For business inquires jump to contact section
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
 
-<small>This simple page was put together using [GitHub Pages](https://pages.github.com/){:target="_blank"} and [Jekyll](https://jekyllrb.com/){:target="_blank"}</small>   
+<small>This page was put together using [GitHub Pages](https://pages.github.com/){:target="_blank"} and [Jekyll](https://jekyllrb.com/){:target="_blank"}</small>   
